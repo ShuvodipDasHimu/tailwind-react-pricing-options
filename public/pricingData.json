@@ -1,0 +1,51 @@
+{
+  "gymPricingOptions": [
+    {
+      "name": "Basic Plan",
+      "price": 25,
+      "currency": "USD",
+      "billingCycle": "monthly",
+      "description": "A great starting point for beginners who want access to essential gym equipment.",
+      "features": [
+        "Full access to gym equipment",
+        "Locker room access",
+        "Free Wi-Fi",
+        "Open 7 days a week",
+        "Fitness assessment (once every 3 months)"
+      ]
+    },
+    {
+      "name": "Standard Plan",
+      "price": 40,
+      "currency": "USD",
+      "billingCycle": "monthly",
+      "description": "Perfect for those who want more variety and group support in their workouts.",
+      "features": [
+        "Everything in Basic Plan",
+        "Unlimited group fitness classes",
+        "1 personal training session per month",
+        "Access to steam room",
+        "Access to yoga and Zumba classes",
+        "Guest pass (1 per month)",
+        "Fitness progress tracking app"
+      ]
+    },
+    {
+      "name": "Premium Plan",
+      "price": 60,
+      "currency": "USD",
+      "billingCycle": "monthly",
+      "description": "All-inclusive plan for fitness lovers who want top-tier services and guidance.",
+      "features": [
+        "Everything in Standard Plan",
+        "Weekly personal training sessions",
+        "Custom workout and diet plans",
+        "Priority booking for classes and equipment",
+        "Towel and laundry service",
+        "Free supplement samples",
+        "Access to premium lounge area",
+        "Monthly body composition analysis"
+      ]
+    }
+  ]
+}
