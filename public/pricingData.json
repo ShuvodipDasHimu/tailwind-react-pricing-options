@@ -20,6 +20,7 @@
       "id": 2,
       "price": 40,
       "currency": "USD",
+      "popular": true,
       "billingCycle": "monthly",
       "description": "Perfect for those who want more variety and group support in their workouts.",
       "features": [
